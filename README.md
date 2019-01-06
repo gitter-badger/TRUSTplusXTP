@@ -5,7 +5,7 @@
 
 Official inital implementation of the TRUSTplus XTP core.
 
-[![Discord](https://img.shields.io/badge/discord-join%20chat-blue.svg)](https://discord.gg/56Dfku)
+[![Discord](https://img.shields.io/badge/discord-join%20chat-blue.svg)](https://discord.gg/56Dfku) [![Join the chat at https://gitter.im/TRUSTplusXTP/community](https://badges.gitter.im/TRUSTplusXTP/community.svg)](https://gitter.im/TRUSTplusXTP/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
 
